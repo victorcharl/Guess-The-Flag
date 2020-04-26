@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GuessThePicture</string>
+
+    <string name="missing_content">Image not found</string>
+    <string name="my_company_name">LA Corporation</string>
+    <string name="title_app">Guess the\n Flag</string>
+    <string name="touch">TAP ANYWHERE TO PLAY!</string>
+    <string name="yourScore">Your Score: %1$d </string>
+    <string name="your_lives">Lives: %1$d</string>
+    <string name="stage_number">STAGE %1$d </string>
+    <string name="btn_play">PLAY</string>
+    <string name="btn_help">HELP</string>
+    <string name="btn_quit">QUIT</string>
+    <string name="missing">content missing</string>
+    <string name="header">How to play</string>
+    <string name="body">Guess the flags. \n \n You have 10 lives to reach as far as your lives runs out.\n \n Have fun!</string>
+    <string name="createdBy">BY: Victor Charl Corpuz \n LA Corporation</string>
+</resources>
